@@ -5,3 +5,4 @@ It also includes a table with two column product name and revenue calculated by 
 There were multiple duplicacy in the original data,which has also been removed and the revenue for each item has been calculated by adding all the duplicate items
 There is also a row at the end which shows the total revenue calculated by selling all the products and is also dynamic.
 I have also added a hovering effect on the table data's
+Moreover, i have also used the concept of debouncing in the search box
